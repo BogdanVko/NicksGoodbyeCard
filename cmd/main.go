@@ -13,7 +13,7 @@ import (
 
 type GoodbyeNickMessagePacket struct {
 	colleagueName   string   // first or first&last go here, each person will be picked at random
-	goodbyeMessages []string // each message will be picked at random and outputted.
+	goodbyeMessages []string // each message will be picked at random and outputted. Have as many and long as you want (at least 1)
 }
 
 var (
