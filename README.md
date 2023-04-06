@@ -1,5 +1,5 @@
 # NicksGoodbyeCard
-This is a simple Goodbye card program written in Go. This program will output the main messages followed by a list of messages from each colleageue.
+This is a simple Goodbye card program written in Go. This program will output the main messages followed by a list of messages from each colleageue (picked in random order). Each colleague can have more than 1 message that will display each run at random as well.
 You should be able to make a Pull Request here, and I will merge it.
 Each signing colleague has to have at least 1 message writtenfor Nick in the list of messages that corresponds to them; please edit the `signCardHere` list in order to append a message.
 
