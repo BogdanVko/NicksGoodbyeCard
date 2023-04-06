@@ -7,10 +7,12 @@ import (
 
 	"github.com/fatih/color"
 )
+// This program outputs a greeting and a random goodbye message from each person (in random order).
+// Feel free to change the code however you wish!
 
 type GoodbyeNickMessagePacket struct {
 	colleagueName   string   // first or first&last go here, each person will be picked at random
-	goodbyeMessages []string // each message will be picked at randmon
+	goodbyeMessages []string // each message will be picked at random and outputted.
 }
 
 var (
