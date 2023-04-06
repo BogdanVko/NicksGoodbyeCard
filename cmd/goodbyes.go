@@ -1,5 +1,10 @@
 package main
 
+type GoodbyeNickMessagePacket struct {
+	colleagueName   string   // first or first&last go here, each person will be picked at random
+	goodbyeMessages []string // each message will be picked at randmon
+}
+
 var (
 	BogdansGoodbyeWordsToNick = GoodbyeNickMessagePacket{
 		colleagueName: "Bogdan",

@@ -8,11 +8,6 @@ import (
 	"github.com/fatih/color"
 )
 
-type GoodbyeNickMessagePacket struct {
-	colleagueName   string
-	goodbyeMessages []string
-}
-
 func main() {
 	nick()
 }
