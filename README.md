@@ -9,3 +9,7 @@ Feel free to change the code however you wish! I created this really quickly jus
 goodbye wishes and that's it - go for it, if you want to change the code in any other way - go for it :D
 
 I am thinking to give Nick both the executable and the code of this when he's leaving, but we can decide to not give him the code, it's up to us to decide :)
+
+this is how it will look like (for now)
+
+![Screen Shot 2023-04-06 at 2 01 35 PM](https://user-images.githubusercontent.com/10859076/230459073-79c47f17-1a00-4c33-a760-b36f795af0f7.png)
